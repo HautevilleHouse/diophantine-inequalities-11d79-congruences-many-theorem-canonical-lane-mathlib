@@ -1,0 +1,9 @@
+import diophantine_inequalities_11d79_congruences_many_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace diophantine_inequalities_11d79_congruences_many_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end diophantine_inequalities_11d79_congruences_many_theorem_canonical_lane_mathlib
+end HautevilleHouse
